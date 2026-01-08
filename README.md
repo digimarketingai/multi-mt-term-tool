@@ -11,6 +11,6 @@ Compare how different machine translation engines translate terminology across l
 
 ### Google Colab (Recommended)
 ```python
-!git clone https://github.com/YOUR_USERNAME/multi-mt-term-tool.git
+!git clone https://github.com/digimarketingai/multi-mt-term-tool.git
 %cd multi-mt-term-tool
 !python run.py
